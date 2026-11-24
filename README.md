@@ -4,4 +4,6 @@
 
 <p align="center"><a href="https://snowdev.me/">Portfolio</a> · <a href="https://github.com/Orvyn-Studios">Orvyn Studios</a> · <a href="https://www.buymeacoffee.com/snow099">Support</a></p>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=py,html,css,js,ts,react,tailwind,nodejs,django,git,vscode,netlify,vercel,supabase,mongodb&theme=dark" alt="Stack" /></p>
+<p align="center"><sub>Languages</sub><br><img src="https://skillicons.dev/icons?i=py,html,css,js,ts&theme=dark" alt="Languages" /></p>
+
+<p align="center"><sub>Tools</sub><br><img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,django,git,vscode,netlify,vercel,supabase,mongodb&theme=dark" alt="Tools" /></p>
